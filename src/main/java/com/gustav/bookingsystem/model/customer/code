@@ -1,0 +1,27 @@
+/*HotelRoom luxurySuite = new LuxurySuite(
+					"1",
+					"10000kr/night",
+					true
+			);
+
+			HotelRoom suite = new Suite(
+					"2",
+					"5000kr/night",
+					true
+			);
+
+			HotelRoom doubleRoom = new DoubleRoom(
+					"3",
+					"1000kr/night",
+					true
+			);
+
+			HotelRoom singleRoom = new SingleRoom(
+					"4",
+					"400kr/night",
+					true
+			);
+			roomRepository.insert(luxurySuite);
+			roomRepository.insert(suite);
+			roomRepository.insert(doubleRoom);
+			roomRepository.insert(singleRoom);*/
